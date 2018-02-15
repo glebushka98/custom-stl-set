@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/glebone/Set/set.cpp
+vector
+-
+exception
+-
+initializer_list
+-
+cassert
+-
+iterator
+-
+stdexcept
+-
+
+/Users/glebone/Set/unit_test.cpp
+set.cpp
+/Users/glebone/Set/set.cpp
+cstdlib
+-
+iostream
+-
+set
+-
+string
+-
+

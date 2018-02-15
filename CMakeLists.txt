@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+project(set)
+include(./common.cmake)
+add_executable(test.out test.cpp ./commons/catch_main.cpp)
+add_executable(unit_test.out unit_test.cpp)
+add_executable(tmp1 set.cpp)
+add_executable(tmp2 unit_test.cpp)

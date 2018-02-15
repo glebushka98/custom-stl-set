@@ -1,0 +1,6 @@
+/Users/glebone/Set/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/glebone/Set/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/glebone/Set/cmake-build-debug/CMakeFiles/unit_test.out.dir
+/Users/glebone/Set/cmake-build-debug/CMakeFiles/tmp2.dir
+/Users/glebone/Set/cmake-build-debug/CMakeFiles/tmp1.dir
+/Users/glebone/Set/cmake-build-debug/CMakeFiles/test.out.dir
